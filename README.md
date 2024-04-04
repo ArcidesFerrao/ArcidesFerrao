@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArcidesFerrao
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning the react ecosystem on The Odin Project
+- 🌱 I’m currently learning how to create an e-commerce webpage using Next.js
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me cidesferrao@gmail.com
 - ⚡ Fun fact: ...
