@@ -5,17 +5,7 @@
 I'm a **Frontend Developer**, **Trap Music Producer**. 
 I specialize in creating user-friendly web applications and exploring innovative solutions in **blockchain**.  
 
-💡 I love building projects that bridge technology and impact.  
-
 📍 Born and raised in Mozambique 🇲🇿, I aim to contribute to the growth of the tech community locally and globally.
-
----
-
-### 🚀 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcidesFerrao&layout=compact&theme=radical)  
-![Arcides's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArcidesFerrao&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArcidesFerrao&theme=radical)
 
 ---
 
@@ -27,18 +17,11 @@ I specialize in creating user-friendly web applications and exploring innovative
 
 ---
 
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS  
 - **Backend:** Node.js, Express, NeonDB  
 - **Tools:** Git, Figma, Zod, Prisma  
-
----
-
-## 🎧 Music
-
-Check out my trap beats and connect with me on [SoundCloud](https://soundcloud.com/arcidesferrao). Let's create some magic together!
 
 ---
 
@@ -55,11 +38,6 @@ Check out my trap beats and connect with me on [SoundCloud](https://soundcloud.c
 
 ---
 
-## Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ArcidesFerrao&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 <!---
 ArcidesFerrao/ArcidesFerrao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
