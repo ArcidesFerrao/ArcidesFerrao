@@ -38,20 +38,20 @@ I specialize in creating user-friendly web applications and exploring innovative
 
 ## 🎧 Music
 
-Check out my trap beats and connect with me on [SoundCloud](#) or [Spotify](#). Let's create some magic together!
+Check out my trap beats and connect with me on [SoundCloud](https://soundcloud.com/arcidesferrao). Let's create some magic together!
 
 ---
 
 ### 🔗 Let's Connect
-- 🌐 [GitHub](https://github.com/ArcidesFerrao)
-- 🌍 [LinkedIn](#)
+
+- 🐦 [Twitter](https://twitter.com/Arcides_)
 - 📧 cidesferrao@gmail.com
 
 ---
 
 ### 🔗 Fun Fact
 
-> "* *I speak Changana and love blending cultural insights with technology!* *"
+> "*I speak Changana and love blending cultural insights with technology!*"
 
 ---
 
