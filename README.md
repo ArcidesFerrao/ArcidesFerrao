@@ -12,8 +12,9 @@ I specialize in creating user-friendly web applications and exploring innovative
 ---
 
 ### 🚀 GitHub Stats
-![Arcides's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArcidesFerrao&show_icons=true&theme=radical)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcidesFerrao&layout=compact&theme=radical)  
+![Arcides's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArcidesFerrao&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArcidesFerrao&theme=radical)
 
 ---
@@ -51,11 +52,6 @@ Check out my trap beats and connect with me on [SoundCloud](#) or [Spotify](#). 
 ### 🔗 Fun Fact
 
 > "* *I speak Changana and love blending cultural insights with technology!* *"
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcidesferrao&layout=donut&langs_count=7&theme=tokyonight&hide_border=true)](https://github.com/arcidesferrao/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ArcidesFerrao&theme=tokyonight&hide_border=true&border_radius=4.4&date_format=j%20M%5B%20Y%5D&card_width=488&card_height=200&fire=EB5454&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ---
 
