@@ -1,15 +1,17 @@
-### <div align="center">I'm a **Frontend Developer**, **Trap Music Producer**.</div>  
-<div align="center">I specialize in creating user-friendly web applications and exploring innovative solutions in **blockchain**.</div>
-
-<div align="center">📍 Born and raised in Mozambique 🇲🇿, I aim to contribute to the tech community's growth locally and globally.</div>
-
 <div align="center">
 <a href="https://twitter.com/Arcides_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-<img src="https://user-badge.committers.top/mozambique/ArcidesFerrao.svg" />
-  
 </div> 
+### <div align="center">I'm a Frontend Developer, Trap Music Producer.</div>  
+<div align="center">I specialize in creating user-friendly web applications and exploring innovative solutions in blockchain.</div>
+
+<div align="center">📍 Born and raised in Mozambique 🇲🇿, I aim to contribute to the tech community's growth locally and globally.</div>
+
+<div align="center">
+<img src="https://user-badge.committers.top/mozambique/ArcidesFerrao.svg" />
+</div> 
+  
 
 ### What do I do  
 - 🌐 **Web Development:** Expert in Next.js, TypeScript, and responsive design.
