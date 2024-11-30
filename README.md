@@ -7,7 +7,7 @@
 <a href="https://twitter.com/Arcides_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-[![committers.top badge](https://user-badge.committers.top/portugal/USERNAME.svg)](https://user-badge.committers.top/mozambique/ArcidesFerrao)
+[![committers.top badge](https://user-badge.committers.top/mozambique/ArcidesFerrao.svg)](https://user-badge.committers.top/mozambique/ArcidesFerrao)
 </div> 
 
 ### What do I do  
