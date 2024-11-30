@@ -1,21 +1,23 @@
-### <div align="center">I'm a **Frontend Developer**, **Trap Music Producer**. 
-I specialize in creating user-friendly web applications and exploring innovative solutions in **blockchain**.  
+### <div align="center">I'm a **Frontend Developer**, **Trap Music Producer**.</div>  
+<div align="center">I specialize in creating user-friendly web applications and exploring innovative solutions in **blockchain**.</div>
 
-📍 Born and raised in Mozambique 🇲🇿, I aim to contribute to the growth of the tech community locally and globally.</div>  
-  
+<div align="center">📍 Born and raised in Mozambique 🇲🇿, I aim to contribute to the tech community's growth locally and globally.</div>
 
-
+<div align="center">
+<a href="https://twitter.com/Arcides_" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+[![committers.top badge](https://user-badge.committers.top/portugal/USERNAME.svg)](https://user-badge.committers.top/mozambique/ArcidesFerrap)
+</div> 
 
 ### What do I do  
-- - 🌐 **Web Development:** Expert in Next.js, TypeScript, and responsive design.
+- 🌐 **Web Development:** Expert in Next.js, TypeScript, and responsive design.
 - 🎵 **Music Production:** Trap beats that tell stories.
 - 💻 **Innovator:** Exploring blockchain, cloud storage, and decentralized tech.  
-  
-
 <br/>  
 
 ## Teck Stack  
-<table><tr><td valign="top" width="33%">
+<table align="center" ><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -28,8 +30,6 @@ I specialize in creating user-friendly web applications and exploring innovative
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -40,9 +40,7 @@ I specialize in creating user-friendly web applications and exploring innovative
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
+  
 ### Tools  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -50,34 +48,12 @@ I specialize in creating user-friendly web applications and exploring innovative
 </div>
 
 </td></tr></table>  
-
 <br/>  
-
-
-## Let's Connect  
-<div align="center">
-<a href="https://twitter.com/Arcides_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ArcidesFerrao&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcidesFerrao&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-### 🔗 Fun Fact
+### Fun Fact
 
 > "*I speak Changana and love blending cultural insights with technology!*"
 ----
 
----
 
 
 <!---
