@@ -4,8 +4,8 @@
 </a>  
 </div> 
 
-### <div align="center">I'm a Frontend Developer, Trap Music Producer.</div>  
-<div align="center">I specialize in creating user-friendly web applications and exploring innovative solutions in blockchain.</div>
+### <div align="center">I'm a Web Developer, Trap Music Producer.</div>  
+<div align="center">I specialize in creating dark-themed user-friendly web applications and exploring innovative solutions in blockchain.</div>
 
 <div align="center">📍 Born and raised in Mozambique 🇲🇿, I aim to contribute to the tech community's growth locally and globally.</div>
 
@@ -19,8 +19,12 @@
 - 🎵 **Music Production:** Trap beats that tell stories.
 - 💻 **Innovator:** Exploring blockchain, cloud storage, and decentralized tech.  
 
-## Teck Stack  
-<table align="center" ><tr><td valign="top" width="33%">
+## Teck Stack 
+<div align="center" style="width: 100%;" >
+  
+<table align="center" width="80%" >
+  <tr>
+    <td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -31,7 +35,8 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+<td valign="top" width="33%">
 
 ### Backend  
 <div align="center">  
@@ -50,12 +55,12 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
 </div>
 
-</td></tr></table>  
+</td>
+</tr>
+</table>  
+</div>
 
-### Fun Fact
 
-> "*I speak Changana and love blending cultural insights with technology!*"
-----
 
 
 
