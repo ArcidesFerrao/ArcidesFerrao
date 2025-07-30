@@ -22,7 +22,7 @@
 ## Teck Stack 
 <div align="center" style="width: 100%;" >
   
-<table align="center" width="80%" >
+<table align="center" style="width: 80%;" >
   <tr>
     <td valign="top" width="33%">
 
